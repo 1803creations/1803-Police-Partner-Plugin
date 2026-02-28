@@ -1,0 +1,12 @@
+C:\Users\Matt\source\repos\1803 Police Partner\obj\Debug\1803 Police Partner.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\1803 Police Partner\obj\Debug\1803 Police Partner.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\1803 Police Partner.dll
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\1803 Police Partner.pdb
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\LSPD First Response.dll
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\RAGENativeUI.dll
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matt\source\repos\1803 Police Partner\bin\Debug\RAGENativeUI.xml
+C:\Users\Matt\source\repos\1803 Police Partner\obj\Debug\1803 Police Partner.csproj.CopyComplete
+C:\Users\Matt\source\repos\1803 Police Partner\obj\Debug\1803 Police Partner.dll
+C:\Users\Matt\source\repos\1803 Police Partner\obj\Debug\1803 Police Partner.pdb
